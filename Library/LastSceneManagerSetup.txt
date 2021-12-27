@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/OneMinuteGui/OneMinuteGUI_Menu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
